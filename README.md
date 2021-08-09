@@ -8,7 +8,10 @@ Web developer who mostly works front-end development with TypeScript, React, Nod
 ---
 
 > ### TOY PROJECT
-- [Fixabay]("https://sweetmilkys.github.io/fixabay")
+<a href="https://sweetmilkys.github.io/fixabay">
+  <li>Fixabay</li>
+</a>
+
 
 <br />
 
