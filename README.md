@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc?username=sweetmilkys" alt="danah" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc?username=danah-kim" alt="danah" /></p>
 <h1 align="center">Hello : )</h1>
 
 Web developer who mostly works front-end development with TypeScript, React, Node and basically any other modern web technology daily!
@@ -8,7 +8,7 @@ Web developer who mostly works front-end development with TypeScript, React, Nod
 ---
 
 > ### TOY PROJECT
-<a href="https://sweetmilkys.github.io/fixabay">
+<a href="https://danah-kim.github.io/fixabay">
   <li>Fixabay</li>
 </a>
 
