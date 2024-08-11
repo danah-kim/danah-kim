@@ -1,14 +1,20 @@
 <h3 align="center">Hello : )</h3>
 
+<br />
+
 <p align="center">
   Web developer who mostly works front-end web development
   <br /> with <b>TypeScript</b> <b>React</b>, <b>Node</b> and basically any other modern web technology daily!
 </p>
 
+
+
 <br />
 
  ### TOY PROJECT
 ---
+<a href="https://www.buymeacoffee.com/danah" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <ul>
   <li>
     Pokédex
