@@ -19,7 +19,6 @@
   <li>
     Pokédex
     <a href="https://pokedex-danah.vercel.app">Demo</a>
-    <a href="https://github.com/danah-kim/pokedex">(Source)</a>
   </li>
   <li>
     Search Locaton
@@ -28,7 +27,6 @@
   <li>
     Fixabay
     <a href="https://danah-kim.github.io/fixabay">Demo</a>
-    <a href="https://github.com/danah-kim/fixabay">(Source)</a>
   </li>
 </ul>
 <br />
