@@ -13,9 +13,19 @@
 
  ### TOY PROJECT
 ---
-<a href="https://www.buymeacoffee.com/danah" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<a href="https://www.buymeacoffee.com/danah" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+</a>
+<br />
+<br />
 <ul>
+  <li>
+    Plandy: Reminders & Calendar
+    <a href="https://apps.apple.com/us/app/plandy-reminders-calendar/id6736831438??utm_source=github&utm_medium=link" rel="nofollow">
+     <img alt="Download on the App Store" src="https://github.com/user-attachments/assets/398fbb88-10b9-4a88-922c-8032ba174e95" height="44px" style="max-width: 100%;" />
+    </a>
+  </li>
   <li>
     Pokédex
     <a href="https://pokedex-danah.vercel.app">Demo</a>
