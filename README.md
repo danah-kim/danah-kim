@@ -27,6 +27,10 @@
     </a>
   </li>
   <li>
+    Landing Page
+    <a href="https://danah-yogolang.netlify.app">Demo</a>
+  </li>
+  <li>
     Pokédex
     <a href="https://pokedex-danah.vercel.app">Demo</a>
   </li>
