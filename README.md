@@ -20,6 +20,10 @@
 <br />
 <br />
 <ul>
+   <li>
+    Snappy: AI picture Diary
+    <a href="https://snappy.style/">Preorder Now!</a>
+  </li>
   <li>
     Plandy: Reminders & Calendar
     <a href="https://apps.apple.com/us/app/plandy-reminders-calendar/id6736831438??utm_source=github&utm_medium=link" rel="nofollow">
